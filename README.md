@@ -3,14 +3,6 @@ Apprentissage Java — ENSPY
 Dépôt regroupant mes exercices et projets réalisés dans le cadre de mon apprentissage du langage Java, au programme de ma formation d'ingénieur à l'ENSPY (École Nationale Supérieure Polytechnique de Yaoundé).
 # 🎯 Objectif
 Consolider les bases du langage Java et la programmation orientée objet, en m'appuyant sur mes connaissances préalables en Python.
-# 📂 Structure du dépôt
-Apprentissage-Java/
-├── 01-bases-syntaxe/         # Variables, types, structures de contrôle
-├── 02-poo/                   # Classes, héritage, interfaces, polymorphisme
-├── 03-collections/           # ArrayList, HashMap, HashSet, génériques
-├── 04-exceptions-fichiers/   # Gestion d'erreurs, lecture/écriture fichiers
-├── 05-avance/                # Threads, concurrence, interface graphique
-└── README.md
 # 🛠️ Prérequis
 JDK 21 (ou version LTS plus récente)
 IntelliJ IDEA (Community Edition) ou tout autre IDE Java
