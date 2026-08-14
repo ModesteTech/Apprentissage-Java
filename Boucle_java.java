@@ -24,5 +24,5 @@ public class Boucle_java {
 			i+=5;
 		}while(i!=20);
 	}
-
+    System.out.println("Salut");
 } 
